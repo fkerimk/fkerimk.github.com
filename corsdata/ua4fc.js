@@ -1,8 +1,8 @@
-//update 4
+//update 5
 const HIDE_PREMIUM = false;
 
 //Get asset list
-var url = "https://fkerimk.github.io/assets.txt"; assetsTXT = "";
+var url = "https://fkerimk.github.io/corsdata/assets.txt"; assetsTXT = "";
 fetch(url, {cache: "no-cache"}).then((response) => response.text().then(function(text) { console.log(assetsTXT = text); }));
 
 //Mark/Hide premium assets
@@ -15,9 +15,10 @@ premiumAssetPosts.forEach(item => {
   if (HIDE_PREMIUM) item.style.display = "none";
 });
 
-//Mark drive assets
+//100ms Interval
 setInterval(() => {
   
+  //Mark drive assets
   const assetPosts = document.querySelectorAll(".post");
   
   const assetsTXTsplit = assetsTXT.split(">");
