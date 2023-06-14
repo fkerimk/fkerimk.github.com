@@ -1049,8 +1049,8 @@ a {
   }
 }
 .cid-tBhrhTYJGR {
-  padding-top: 10rem;
-  padding-bottom: 7rem;
+  padding-top: 8rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/animated-background-2.gif");
 }
 .cid-tBhrhTYJGR .mbr-fallback-image.disabled {
@@ -1072,14 +1072,24 @@ a {
 .cid-tBhrhTYJGR .mbr-section-btn {
   color: #ffffff;
 }
-.cid-tBfVo2c2Dn {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-image: url("../../../assets/images/animated-background-5.gif");
+.cid-tFCDszX9CX {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #000000;
 }
-.cid-tBfVo2c2Dn .mbr-overlay {
-  background: #22a5e5;
-  opacity: 0.8;
+.cid-tFCDszX9CX .mbr-section-title {
+  color: #ffe161;
+}
+.cid-tFCDszX9CX .mbr-section-subtitle {
+  color: #ffb18a;
+}
+.cid-tFCDszX9CX .mbr-text {
+  color: #ffffff;
+}
+.cid-tBfVo2c2Dn {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #000000;
 }
 .cid-tBfVo2c2Dn img,
 .cid-tBfVo2c2Dn .item-img {
@@ -1099,7 +1109,7 @@ a {
 .cid-tBfVo2c2Dn .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #0d0d0d;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1124,26 +1134,28 @@ a {
   margin-top: auto !important;
 }
 .cid-tBfVo2c2Dn .mbr-section-title {
-  color: #ffffff;
+  color: #e43f3f;
 }
 .cid-tBfVo2c2Dn .mbr-text,
 .cid-tBfVo2c2Dn .mbr-section-btn {
   text-align: left;
+  color: #ffffff;
 }
 .cid-tBfVo2c2Dn .item-title {
   text-align: left;
+  color: #ffe161;
 }
 .cid-tBfVo2c2Dn .item-subtitle {
   text-align: left;
-  color: #bbbbbb;
+  color: #fff0b0;
 }
 .cid-tBfVo2c2Dn .mbr-section-subtitle {
-  color: #fafafa;
+  color: #22a5e5;
 }
 .cid-tBg03aAzmV {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #232323;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #000000;
 }
 .cid-tBg03aAzmV .mbr-fallback-image.disabled {
   display: none;
@@ -1165,7 +1177,7 @@ a {
   margin-bottom: 2rem;
   display: flex;
   border-radius: 4px;
-  background: #424549;
+  background: #232323;
 }
 @media (max-width: 991px) {
   .cid-tBg03aAzmV .card-wrapper {
@@ -1192,13 +1204,13 @@ a {
   color: #ffffff;
 }
 .cid-tBhL3qHWkV {
-  padding-top: 10rem;
+  padding-top: 4rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/animated-background-3.gif");
+  background-color: #000000;
 }
 .cid-tBhL3qHWkV .mbr-overlay {
-  background-color: #22a5e5;
-  opacity: 0.5;
+  background-color: #000000;
+  opacity: 0.9;
 }
 .cid-tBhL3qHWkV form .mbr-section-btn {
   text-align: center;
