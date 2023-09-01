@@ -1,0 +1,21 @@
+/*
+
+<link rel="stylesheet" href="additional.css">
+
+*/
+
+section.mbr-embla
+div.container
+div.row
+div.col-12.col-lg-6
+div.embla
+div.embla__viewport.is-draggable
+div.embla__container
+div.embla__slide.slider-image.item {
+
+   
+    /*margin-left: calc(var(--gap) * -1) !important;
+    margin-right: calc(var(--gap) * -1) !important;*/
+}
+
+section.display-7 { display: none !important; }
